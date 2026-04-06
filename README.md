@@ -23,4 +23,4 @@ A comprehensive exploratory data analysis (EDA) project focused on uncovering tr
 4. Review Timelines: Created time-series charts to analyze how review volumes change over time.
 
 Feel free to explore the repository to see the charts, graphs, and the complete data cleaning process!
-Here's the link! : []
+Here's the link! : [https://github.com/manshidubey27/Air-Bnb/blob/main/Untitled.ipynb]
